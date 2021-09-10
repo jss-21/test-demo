@@ -29,6 +29,8 @@ h1 {
 
 figcaption {
     color: grey;
+    font-style: italic;
+    font-size: 12px;
 
 }
 
@@ -36,6 +38,10 @@ footer {
     color: #1E90FF;
 }
 
+div {
+  padding-left: 40px;
+
+}
 
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
